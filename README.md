@@ -1,5 +1,6 @@
+<img src="https://user-images.githubusercontent.com/94797491/146041197-48e062b1-3d15-4c13-9076-2bdfe82b5fa4.png" width="100"></h2> 
 ### Hi there, I'm Shayan! 👋
-![programmer](https://user-images.githubusercontent.com/94797491/146040152-7f1aaa83-659b-402f-93ed-6b50d96b0de2.png)
+
 
 
 
