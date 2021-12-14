@@ -1,5 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/94797491/146041197-48e062b1-3d15-4c13-9076-2bdfe82b5fa4.png" width="80"></h2> 
-# <b>Hi there, I'm Shayan! 👋
+# <b>Hi there, I'm Shayan! <img src="https://user-images.githubusercontent.com/94797491/146041197-48e062b1-3d15-4c13-9076-2bdfe82b5fa4.png" width="70"></h2> <b>
  
  
  ## About me:
