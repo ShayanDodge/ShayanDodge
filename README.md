@@ -18,8 +18,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/shayan-dodge-441453204/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shayand.95-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:dodgeshayan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dodgeshayan@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ <a href="https://www.researchgate.net/profile/Shayan-Dodge"><img alt="Email" src="https://img.shields.io/badge/ResearchGate-Shyan Dodge-blue?style=flat-square&logo=researchgate">
+ <a href="https://www.linkedin.com/in/shayan-dodge-441453204/"><img alt="Email" src="https://img.shields.io/badge/Linkedin-Shyan Dodge-blue?style=flat-square&logo=linkedin">
+  <a href="mailto:dodgeshayan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dodgeshayan@gmail.com-blue?style=flat-square&logo=gmail">
+</a>
 
 </p>
 
