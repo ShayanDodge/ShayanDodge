@@ -27,14 +27,12 @@
 </p>
 
 ## Languages and Tools I Use
-
-- <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
-- <img align="left" alt="Wolfram Mathematica" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" /> **Wolfram Mathematica**
-
-- <img align="left" alt="Octave" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
-- <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
-- <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
-- <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
+- <img align="left" alt="MATLAB" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
+- <img align="left" alt="Wolfram Mathematica" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" /> **Wolfram Mathematica**
+- <img align="left" alt="Octave" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
+- <img align="left" alt="Git" width="20px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
+- <img align="left" alt="GitHub" width="20px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
+- <img align="left" alt="LaTeX" width="20px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
 
 
 
