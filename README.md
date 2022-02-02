@@ -33,9 +33,22 @@
 - <img align="left" alt="Git" width="20px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="GitHub" width="20px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
 - <img align="left" alt="LaTeX" width="20px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
-
-
-
+## Research Interest
+### Computational Physics
+- Computational Electromagnetics with emphasis on the FDTD Method (Finite Difference Time Domain Method)
+- Implementation and Optimization of FDTD Method on GPU
+### Biophysics
+- Effects of microwave radiation on health
+- Application of hyperthermia for cancer treatment
+- Experimental and theoretical study of Propagation and Absorption in Tissue
+### Microwave Engineering
+- Measurement of electromagnetic properties of complex media. (ASTM D2520)
+- The Simulation, Design and Implementation of waveguide band pass filter
+- Microwave scattering
+### Plasma Physics
+- Simulation of microwave-plasma interaction
+-  Kinetic theory of discharge  
+[Shayan Dodge's CV.pdf](https://github.com/ShayanDodge/ShayanDodge/files/7987650/Shayan.Dodge.s.CV.pdf)
 
 <!--
 **ShayanDodge/ShayanDodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
