@@ -42,7 +42,7 @@
 - Application of hyperthermia for cancer treatment
 - Experimental and theoretical study of Propagation and Absorption in Tissue
 ### Microwave Engineering
-- Measurement of electromagnetic properties of complex media. (ASTM D2520)
+- Measurement of electromagnetic properties of complex media.
 - The Simulation, Design and Implementation of waveguide band pass filter
 - Microwave scattering
 ### Plasma Physics
