@@ -33,6 +33,9 @@
 - <img align="left" alt="Git" width="20px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="GitHub" width="20px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
 - <img align="left" alt="LaTeX" width="20px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Research Interest
 ### Computational Physics
 - Computational Electromagnetics with emphasis on the FDTD Method (Finite Difference Time Domain Method)
@@ -50,6 +53,8 @@
 -  Kinetic theory of discharge  
 ## Shayan Dodge's CV
 [Shayan Dodge's CV.pdf](https://github.com/ShayanDodge/ShayanDodge/files/8662201/Shayan.Dodge.s.CV.pdf)
+   
+
 
 <!--
 **ShayanDodge/ShayanDodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
