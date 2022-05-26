@@ -34,7 +34,7 @@
 - <img align="left" alt="GitHub" width="20px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
 - <img align="left" alt="LaTeX" width="20px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=3)](https://github.com/ShayanDodge/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=4)](https://github.com/ShayanDodge/github-readme-stats)
 
    
 
