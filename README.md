@@ -9,16 +9,16 @@
 - ⚡ Fun fact: I love swimming.
    
 ## Languages and Tools I Use
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=4)](https://github.com/ShayanDodge/github-readme-stats)
 - <img align="left" alt="MATLAB" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="C++" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />  **C++**
 - <img align="left" alt="Wolfram Mathematica" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" /> **Wolfram Mathematica**
 - <img align="left" alt="Octave" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /> **Octave**
 - <img align="left" alt="LaTeX" width="20px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=4)](https://github.com/ShayanDodge/github-readme-stats)
-
    
 
+ 
 ## Research Interest
 ### Computational Physics
 - Computational Electromagnetics with emphasis on the FDTD Method (Finite Difference Time Domain Method)
