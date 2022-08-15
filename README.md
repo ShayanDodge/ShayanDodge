@@ -7,17 +7,6 @@
 - 🔭 I’m currently working on Finite Difference Time Domain method.
 - 📫 How to reach me: dodgeshayan@gmail.com ⚛️
 - ⚡ Fun fact: I love swimming.
- 
- <br/>
-<h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
-<p align="center">
- <a href="https://www.researchgate.net/profile/Shayan-Dodge"><img alt="Email" src="https://img.shields.io/badge/ResearchGate-Shyan Dodge-blue?style=flat-square&logo=researchgate">
- <a href="https://www.linkedin.com/in/shayan-dodge-441453204/"><img alt="Email" src="https://img.shields.io/badge/Linkedin-Shyan Dodge-blue?style=flat-square&logo=linkedin">
-  <a href="https://publons.com/researcher/4639653/shayan-dodge/"><img alt="Email" src="https://img.shields.io/badge/publons-Shyan Dodge-blue?style=flat-square&logo=publons">
-   <a href="https://orcid.org/my-orcid?orcid=0000-0002-8323-2290"><img alt="Email" src="https://img.shields.io/badge/ORCID-0000 0002 8323 2290-blue?style=flat-square&logo=Orcid">
-  <a href="mailto:dodgeshayan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dodgeshayan@gmail.com-blue?style=flat-square&logo=gmail">
-</a>
-</p>
    
 ## Languages and Tools I Use
 - <img align="left" alt="MATLAB" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
@@ -47,20 +36,14 @@
 -  Kinetic theory of discharge  
 ## Shayan Dodge's CV
 [Shayan Dodge's CV.pdf](https://github.com/ShayanDodge/ShayanDodge/files/8662201/Shayan.Dodge.s.CV.pdf)
-   
-
-
-<!--
-**ShayanDodge/ShayanDodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- _ 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+ <br/>
+<h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
+<p align="center">
+ <a href="https://www.researchgate.net/profile/Shayan-Dodge"><img alt="Email" src="https://img.shields.io/badge/ResearchGate-Shyan Dodge-blue?style=flat-square&logo=researchgate">
+ <a href="https://www.linkedin.com/in/shayan-dodge-441453204/"><img alt="Email" src="https://img.shields.io/badge/Linkedin-Shyan Dodge-blue?style=flat-square&logo=linkedin">
+  <a href="https://publons.com/researcher/4639653/shayan-dodge/"><img alt="Email" src="https://img.shields.io/badge/publons-Shyan Dodge-blue?style=flat-square&logo=publons">
+   <a href="https://orcid.org/my-orcid?orcid=0000-0002-8323-2290"><img alt="Email" src="https://img.shields.io/badge/ORCID-0000 0002 8323 2290-blue?style=flat-square&logo=Orcid">
+  <a href="mailto:dodgeshayan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dodgeshayan@gmail.com-blue?style=flat-square&logo=gmail">
+</a>
+</p> 
