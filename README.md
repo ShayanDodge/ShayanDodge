@@ -8,8 +8,6 @@
 - 📫 How to reach me: dodgeshayan@gmail.com ⚛️
 - ⚡ Fun fact: I love swimming.
  <br/>
-
-
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <p align="center">
