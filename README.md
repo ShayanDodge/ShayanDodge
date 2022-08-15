@@ -10,8 +10,7 @@
    
 ## Languages and Tools I Use
 <img align="left" alt="MATLAB" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /><img align="left" alt="C++" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /><img align="left" alt="Wolfram Mathematica" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" /><img align="left" alt="Octave" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" /><img align="left" alt="LaTeX" width="20px" src="https://simpleicons.org/icons/latex.svg"/>
-  <br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=4)](https://github.com/ShayanDodge/github-readme-stats)
+  <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=4)](https://github.com/ShayanDodge/github-readme-stats)
 
 ## Research Interest
 ### Computational Physics
