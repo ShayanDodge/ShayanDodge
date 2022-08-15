@@ -7,10 +7,6 @@
 - 🔭 I’m currently working on Finite Difference Time Domain method.
 - 📫 How to reach me: dodgeshayan@gmail.com ⚛️
 - ⚡ Fun fact: I love swimming.
-
- 
-
- 
  <br/>
 
 
