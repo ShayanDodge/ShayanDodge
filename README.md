@@ -1,34 +1,14 @@
 # <b>Hi there, I'm Shayan Dodge
  
- 
  ## About me:
 - 🎓 I am a master of science in plasma physics!
-- 💼 &nbsp; Passionate Programmer, Matlab Developer, C++ Developer, problem solving Skills and a Competitive Programmer.
+- 💼 &nbsp; Passionate Programmer, Matlab Developer and C++ Developer.
 - 🔭 I’m currently working on Finite Difference Time Domain method.
 - 📫 How to reach me: dodgeshayan@gmail.com ⚛️
 - ⚡ Fun fact: I love swimming.
    
 ## Languages and Tools I Use
   <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=4)](https://github.com/ShayanDodge/github-readme-stats)
-
-## Research Interest
-### Computational Physics
-- Computational Electromagnetics with emphasis on the FDTD Method (Finite Difference Time Domain Method)
-- Implementation and Optimization of FDTD Method on GPU
-### Biophysics
-- Effects of microwave radiation on health
-- Application of hyperthermia for cancer treatment
-- Experimental and theoretical study of Propagation and Absorption in Tissue
-### Microwave Engineering
-- Measurement of electromagnetic properties of complex media.
-- The Simulation, Design and Implementation of waveguide band pass filter
-- Microwave scattering
-### Plasma Physics
-- Simulation of microwave-plasma interaction
--  Kinetic theory of discharge  
-## Shayan Dodge's CV
-[Shayan Dodge's CV.pdf](https://github.com/ShayanDodge/ShayanDodge/files/8662201/Shayan.Dodge.s.CV.pdf)
-  
  <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="center">
