@@ -3,7 +3,7 @@
  
  ## About me:
 - 🎓 I am a master of science in plasma physics!
-- 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
+- 💼 &nbsp; Passionate Programmer, Matlab Developer, C++ Developer, problem solving Skills and a Competitive Programmer.
 - 🔭 I’m currently working on Finite Difference Time Domain method.
 - 📫 How to reach me: dodgeshayan@gmail.com ⚛️
 - ⚡ Fun fact: I love swimming.
