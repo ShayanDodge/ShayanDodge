@@ -1,9 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/94797491/224638596-90895925-517a-47e1-bc9f-d2a70c0f3b55.png" alt="Illustration" title="Illustration Storyset" width=300/>
 
-<img align="right" src="https://user-images.githubusercontent.com/94797491/224636411-21917bf4-254b-445d-b95f-c15c08102514.png" alt="Illustration" title="Illustration Storyset" width=400/>
-
-
-
-    
 <h1 align="left">Hi 👋🏽, I'm Shayan Dodge</h1>
  
  ## About me:
@@ -13,7 +9,7 @@
 - 📫 How to reach me: dodgeshayan@gmail.com ⚛️
 - ⚡ Fun fact: I love swimming.
    
-## Languages and Tools I Use
+### Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB">
 
