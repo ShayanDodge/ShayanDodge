@@ -1,5 +1,5 @@
 
-<img align="right" src="https://user-images.githubusercontent.com/94797491/224636411-21917bf4-254b-445d-b95f-c15c08102514.png" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="https://user-images.githubusercontent.com/94797491/224636411-21917bf4-254b-445d-b95f-c15c08102514.png" alt="Illustration" title="Illustration Storyset" width=400/>
 
 
 
