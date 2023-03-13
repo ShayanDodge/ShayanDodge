@@ -1,26 +1,15 @@
 <img align="right" src="https://user-images.githubusercontent.com/94797491/224638596-90895925-517a-47e1-bc9f-d2a70c0f3b55.png" alt="Illustration" title="Illustration Storyset" width=200/>
 
-<h1 align="left">Shayan Dodge</h1>
-
+# ![icons8-education-64](https://user-images.githubusercontent.com/94797491/224663941-1b897308-1a6f-4383-93d2-94d9950790ca.png) Shayan Dodge
 **`Physicist | Programmer | Freelancer`**
-
 I am a highly skilled physics enthusiast with a Master's degree in Physics, and a strong passion for programming and simulation in engineering. My expertise lies in developing computer codes using C++ and MATLAB for computational physics simulations, with a particular focus on electromagnetics.
-
----
- 
- ## About me:
-- 🎓 I am a master of science in plasma physics!
-- 💼 &nbsp; Passionate Programmer, Matlab Developer and C++ Developer.
-- 🔭 I’m currently working on Finite Difference Time Domain method.
-- 📫 How to reach me: dodgeshayan@gmail.com ⚛️
-- ⚡ Fun fact: I love swimming.
+</div>
 
 ---
 
 ### 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB">
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -36,30 +25,24 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
    
    ---
    
-</div>
- </a>
- <br/>
+ ## 👨‍💻 Shayan Dodge Journey</h3></summary>
+As a simulation engineer and freelance programmer, I have worked on various projects in electrical, mechanics, and plasma engineering. I take pride in my ability to collaborate with clients and develop robust and scalable software solutions to complex problems. One of my key areas of focus is exploring GPU acceleration to optimize FDTD simulations. I am constantly researching the latest technologies and methodologies to implement this technique into my work, ensuring that I achieve the best possible results. I am always eager to expand my knowledge and skills, and I enjoy working with others to learn and grow. My strong work ethic, attention to detail, and dedication to improving the efficiency and speed of my simulations have earned me a reputation for delivering high-quality work on time and within budget. In my free time, I enjoy keeping up with the latest developments in the fields of physics and computer science, and I am always looking for new opportunities to apply my skills and knowledge.
+
+   ---
+   
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="center">
+ <a href="mailto:dodgeshayan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dodgeshayan@gmail.com-blue?style=flat-square&logo=gmail">
+   <a href="https://www.linkedin.com/in/shayan-dodge-441453204/"><img alt="Email" src="https://img.shields.io/badge/Linkedin-Shyan Dodge-blue?style=flat-square&logo=linkedin">
  <a href="https://www.researchgate.net/profile/Shayan-Dodge"><img alt="Email" src="https://img.shields.io/badge/ResearchGate-Shyan Dodge-blue?style=flat-square&logo=researchgate">
- <a href="https://www.linkedin.com/in/shayan-dodge-441453204/"><img alt="Email" src="https://img.shields.io/badge/Linkedin-Shyan Dodge-blue?style=flat-square&logo=linkedin">
   <a href="https://publons.com/researcher/4639653/shayan-dodge/"><img alt="Email" src="https://img.shields.io/badge/publons-Shyan Dodge-blue?style=flat-square&logo=publons">
    <a href="https://orcid.org/my-orcid?orcid=0000-0002-8323-2290"><img alt="Email" src="https://img.shields.io/badge/ORCID-0000 0002 8323 2290-blue?style=flat-square&logo=Orcid">
-  <a href="mailto:dodgeshayan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dodgeshayan@gmail.com-blue?style=flat-square&logo=gmail">
-</a>
-</p> 
-
----
+  
    
-<details>
- <summary><h3>👨‍💻 Shayan Dodge Journey</h3></summary>
-As a simulation engineer and freelance programmer, I have worked on various projects in electrical, mechanics, and plasma engineering. I take pride in my ability to collaborate with clients and develop robust and scalable software solutions to complex problems.
+---
 
-One of my key areas of focus is exploring GPU acceleration to optimize FDTD simulations. I am constantly researching the latest technologies and methodologies to implement this technique into my work, ensuring that I achieve the best possible results for my clients.
 
-I am always eager to expand my knowledge and skills, and I enjoy working with others to learn and grow. My strong work ethic, attention to detail, and dedication to improving the efficiency and speed of my simulations have earned me a reputation for delivering high-quality work on time and within budget.
 
-In my free time, I enjoy keeping up with the latest developments in the fields of physics and computer science, and I am always looking for new opportunities to apply my skills and knowledge.
    
 
  
