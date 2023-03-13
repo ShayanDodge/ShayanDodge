@@ -9,15 +9,19 @@
    
 ## Languages and Tools I Use
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB">
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB"></a>
-
-  <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=4)](https://github.com/ShayanDodge/github-readme-stats)
+  <div align="left">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ShayanDodge&show_icons=true&theme=algolia&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b1" alt="angeloyeo" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShayanDodge&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="angeloyeo" />
+   
+</div>
+ </a>
  <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="center">
