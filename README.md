@@ -2,6 +2,7 @@
 
 # ![icons8-education-64](https://user-images.githubusercontent.com/94797491/224663941-1b897308-1a6f-4383-93d2-94d9950790ca.png) Shayan Dodge
 **`Physicist | Programmer | Freelancer`**
+
 I am a highly skilled physics enthusiast with a Master's degree in Physics, and a strong passion for programming and simulation in engineering. My expertise lies in developing computer codes using C++ and MATLAB for computational physics simulations, with a particular focus on electromagnetics.
 </div>
 
@@ -32,13 +33,17 @@ As a simulation engineer and freelance programmer, I have worked on various proj
    
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="center">
- <a href="mailto:dodgeshayan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dodgeshayan@gmail.com-blue?style=flat-square&logo=gmail">
-   <a href="https://www.linkedin.com/in/shayan-dodge-441453204/"><img alt="Email" src="https://img.shields.io/badge/Linkedin-Shyan Dodge-blue?style=flat-square&logo=linkedin">
- <a href="https://www.researchgate.net/profile/Shayan-Dodge"><img alt="Email" src="https://img.shields.io/badge/ResearchGate-Shyan Dodge-blue?style=flat-square&logo=researchgate">
-  <a href="https://publons.com/researcher/4639653/shayan-dodge/"><img alt="Email" src="https://img.shields.io/badge/publons-Shyan Dodge-blue?style=flat-square&logo=publons">
-   <a href="https://orcid.org/my-orcid?orcid=0000-0002-8323-2290"><img alt="Email" src="https://img.shields.io/badge/ORCID-0000 0002 8323 2290-blue?style=flat-square&logo=Orcid">
-  
+ 
+  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+ ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+ ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+ ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
+ ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
    
+    
 ---
 
 
