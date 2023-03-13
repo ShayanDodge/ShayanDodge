@@ -15,6 +15,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB"></a>
 
   <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanDodge&langs_count=4)](https://github.com/ShayanDodge/github-readme-stats)
  <br/>
