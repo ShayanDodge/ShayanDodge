@@ -3,7 +3,7 @@
 # ![icons8-education-64](https://user-images.githubusercontent.com/94797491/224663941-1b897308-1a6f-4383-93d2-94d9950790ca.png) Shayan Dodge
 **`Physicist | Programmer | Freelancer`**
 
-I am a highly skilled physics enthusiast with a Master's degree in Physics, and a strong passion for programming and simulation in engineering. My expertise lies in developing computer codes using C++ and MATLAB for computational physics simulations, with a particular focus on electromagnetics.
+I am a highly skilled physics enthusiast with a Master's degree in Physics, and a strong passion for programming and simulation in engineering. My expertise lies in developing computer codes using C++, Python and MATLAB for computational physics simulations, with a particular focus on electromagnetics.
 </div>
 
 ---
@@ -11,6 +11,7 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
 ### 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
