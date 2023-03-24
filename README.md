@@ -56,15 +56,15 @@ Please feel free to reach out to me if you have any questions or would like to d
 
   4. **GPU acceleration:** I am knowledgeable in using GPU acceleration to improve the efficiency of FDTD and FEM simulations, and can help clients implement this technology in their workflows.
 
-* Training and workshops: I offer training and workshops to help clients learn how to perform FDTD and FEM simulations independently, using programming languages and software such as MATLAB, C++, and Python.
+* **Training and workshops:** I offer training and workshops to help clients learn how to perform FDTD and FEM simulations independently, using programming languages and software such as MATLAB, C++, and Python.
 
-* Programming and software development: I offer programming and software development services to create customized solutions for clients in electrical, mechanics, and plasma engineering.
+* **Programming and software development:** I offer programming and software development services to create customized solutions for clients in electrical, mechanics, and plasma engineering.
 
-* Freelance programming: I can collaborate with clients remotely to deliver high-quality software solutions on time and within budget.
+* **Freelance programming:** I can collaborate with clients remotely to deliver high-quality software solutions on time and within budget.
 
-* Optimization and efficiency consulting: I can help clients optimize their existing simulation workflows and explore new technologies, such as GPU acceleration, to improve the efficiency of their simulations.
+* **Optimization and efficiency consulting:** I can help clients optimize their existing simulation workflows and explore new technologies, such as GPU acceleration, to improve the efficiency of their simulations.
 
-* Collaboration and project management: I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track and within budget.
+* **Collaboration and project management:** I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track and within budget.
 
    ---
 # Let's Work Together!
