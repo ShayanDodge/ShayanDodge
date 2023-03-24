@@ -41,8 +41,7 @@ Please feel free to reach out to me if you have any questions or would like to d
 ### Skills
 * Strong background in physics, including classical mechanics, electromagnetism, and quantum mechanics
 * Proficient in programming languages such as Python, C++, and MATLAB
-* Experience with numerical methods and algorithms for simulation and modeling
-* Knowledge of scientific computing libraries, such as NumPy, SciPy, and PyTorch
+* Experience with numerical methods and algorithms for simulation and modeling (FDM, FTTD, FEM, MOM)
 * Familiarity with high-performance computing (HPC) environments and parallel computing
 
 ### Experience
