@@ -46,7 +46,7 @@ Please feel free to reach out to me if you have any questions or would like to d
 * Familiarity with high-performance computing (HPC) environments and parallel computing
 
 ## ![icons8-experience-64 (1)](https://user-images.githubusercontent.com/94797491/227505758-fcb4a867-eeb6-42b5-9c95-403b3831a771.png) Experiences
-Over the past decade, I've worked with clients in academia, research institutions, and industry. Here are a few examples of my recent projects:
+In the last five years, I have collaborated with various customers from academic, research, and industry sectors. Here are some recent projects I have worked on.
 
 * Developed a simulation software package for a research group in materials science, which included implementing numerical methods for solving partial differential equations (PDEs) and a user-friendly graphical interface.
 
