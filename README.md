@@ -28,7 +28,7 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
    
    ---
    
- ## 👨‍💻 Simulation and Computational Physics Services</h3></summary>
+ ## ![icons8-simulation-64](https://user-images.githubusercontent.com/94797491/227504377-2b8f3439-af9d-44d9-94d6-506a6d1ed903.png) Simulation and Computational Physics Services</h3></summary>
  
 "Hello and welcome to my LinkedIn profile! As a passionate physicist with a Master's degree in Physics and expertise in programming and simulation in engineering, I specialize in creating robust computer codes for computational physics simulations using C++, Python, and MATLAB. My particular focus is on electromagnetics, and I am familiar with FDTD and FEM simulations.
 
@@ -38,7 +38,8 @@ I have a strong work ethic, attention to detail, and dedication to delivering hi
 
 Please feel free to reach out to me if you have any questions or would like to discuss potential projects. I look forward to working with you!"
 
-### Skills
+### ![icons8-skill-64 (1)](https://user-images.githubusercontent.com/94797491/227503379-fafba001-e423-4fb5-b8ee-71f4897b4358.png) Skills
+
 * Strong background in physics, including classical mechanics, electromagnetism, and quantum mechanics
 * Proficient in programming languages such as Python, C++, and MATLAB
 * Experience with numerical methods and algorithms for simulation and modeling (FDM, FTTD, FEM, MOM)
