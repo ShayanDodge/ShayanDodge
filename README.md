@@ -29,7 +29,14 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
    ---
    
  ## 👨‍💻 Shayan Dodge Journey</h3></summary>
-As a simulation engineer and freelance programmer, I have worked on various projects in electrical, mechanics, and plasma engineering. I take pride in my ability to collaborate with clients and develop robust and scalable software solutions to complex problems. One of my key areas of focus is exploring GPU acceleration to optimize FDTD simulations. I am constantly researching the latest technologies and methodologies to implement this technique into my work, ensuring that I achieve the best possible results. I am always eager to expand my knowledge and skills, and I enjoy working with others to learn and grow. My strong work ethic, attention to detail, and dedication to improving the efficiency and speed of my simulations have earned me a reputation for delivering high-quality work on time and within budget. In my free time, I enjoy keeping up with the latest developments in the fields of physics and computer science, and I am always looking for new opportunities to apply my skills and knowledge.
+ 
+"Welcome to my GitHub profile! I am a passionate physicist with a Master's degree in Physics and a strong background in programming and simulation in engineering. My expertise lies in creating robust computer codes for computational physics simulations using C++, Python, and MATLAB, with a particular focus on electromagnetics and familiarity with FDTD and FEM simulations.
+
+I have successfully delivered projects for clients in electrical, mechanics, and plasma engineering, providing programming and software development services that meet their specific needs. I am constantly researching the latest technologies and methodologies to improve my work, including exploring GPU acceleration to improve the efficiency of my FDTD simulations.
+
+With a strong work ethic, attention to detail, and dedication to delivering high-quality work on time and within budget, I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track. I also offer training and workshops to help others expand their knowledge and skills in physics and computer science.
+
+If you have any questions or would like to discuss potential projects, please don't hesitate to reach out. I look forward to connecting with you!"
 
    ---
    
