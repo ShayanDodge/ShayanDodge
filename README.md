@@ -8,7 +8,7 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -28,7 +28,7 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
    
    ---
    
- ## ![icons8-simulation-64](https://user-images.githubusercontent.com/94797491/227504377-2b8f3439-af9d-44d9-94d6-506a6d1ed903.png) Simulation and Computational Physics Services</h3></summary>
+ # ![icons8-simulation-64](https://user-images.githubusercontent.com/94797491/227504377-2b8f3439-af9d-44d9-94d6-506a6d1ed903.png) Simulation and Computational Physics Services</h3></summary>
  
 "Hello and welcome to my LinkedIn profile! As a passionate physicist with a Master's degree in Physics and expertise in programming and simulation in engineering, I specialize in creating robust computer codes for computational physics simulations using C++, Python, and MATLAB. My particular focus is on electromagnetics, and I am familiar with FDTD and FEM simulations.
 
@@ -38,14 +38,14 @@ I have a strong work ethic, attention to detail, and dedication to delivering hi
 
 Please feel free to reach out to me if you have any questions or would like to discuss potential projects. I look forward to working with you!"
 
-### ![icons8-skill-64 (1)](https://user-images.githubusercontent.com/94797491/227503379-fafba001-e423-4fb5-b8ee-71f4897b4358.png) Skills
+## ![icons8-skill-64 (1)](https://user-images.githubusercontent.com/94797491/227503379-fafba001-e423-4fb5-b8ee-71f4897b4358.png) Skills
 
 * Strong background in physics, including classical mechanics, electromagnetism, and quantum mechanics
 * Proficient in programming languages such as Python, C++, and MATLAB
 * Experience with numerical methods and algorithms for simulation and modeling (FDM, FTTD, FEM, MOM)
 * Familiarity with high-performance computing (HPC) environments and parallel computing
 
-### Experience
+## ![icons8-experience-64 (1)](https://user-images.githubusercontent.com/94797491/227505758-fcb4a867-eeb6-42b5-9c95-403b3831a771.png) Experiences
 Over the past decade, I've worked with clients in academia, research institutions, and industry. Here are a few examples of my recent projects:
 
 * Developed a simulation software package for a research group in materials science, which included implementing numerical methods for solving partial differential equations (PDEs) and a user-friendly graphical interface.
@@ -75,8 +75,8 @@ Over the past decade, I've worked with clients in academia, research institution
 * Collaboration and project management: I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track and within budget.
 
    ---
-   
-<h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
+  
+# Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="center">
  
   [![Gmail](https://img.shields.io/badge/dodgeshayan@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodgeshayan@gmail.com)
