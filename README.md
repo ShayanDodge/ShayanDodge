@@ -28,15 +28,51 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
    
    ---
    
- ## 👨‍💻 Shayan Dodge Journey</h3></summary>
+ ## 👨‍💻 Simulation and Computational Physics Services</h3></summary>
  
-"Welcome to my GitHub profile! I am a passionate physicist with a Master's degree in Physics and a strong background in programming and simulation in engineering. My expertise lies in creating robust computer codes for computational physics simulations using C++, Python, and MATLAB, with a particular focus on electromagnetics and familiarity with FDTD and FEM simulations.
+"Hello and welcome to my LinkedIn profile! As a passionate physicist with a Master's degree in Physics and expertise in programming and simulation in engineering, I specialize in creating robust computer codes for computational physics simulations using C++, Python, and MATLAB. My particular focus is on electromagnetics, and I am familiar with FDTD and FEM simulations.
 
-I have successfully delivered projects for clients in electrical, mechanics, and plasma engineering, providing programming and software development services that meet their specific needs. I am constantly researching the latest technologies and methodologies to improve my work, including exploring GPU acceleration to improve the efficiency of my FDTD simulations.
+With experience in delivering successful projects for clients in electrical, mechanics, and plasma engineering, I am confident in my ability to provide programming and software development services that meet the needs of my clients. Additionally, I am always researching the latest technologies and methodologies to optimize my work, and I am particularly interested in exploring GPU acceleration to improve the efficiency of my FDTD simulations.
 
-With a strong work ethic, attention to detail, and dedication to delivering high-quality work on time and within budget, I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track. I also offer training and workshops to help others expand their knowledge and skills in physics and computer science.
+I have a strong work ethic, attention to detail, and dedication to delivering high-quality work on time and within budget. I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track. My passion for physics and computer science drives me to constantly expand my knowledge and skills, and I offer training and workshops to help others do the same.
 
-If you have any questions or would like to discuss potential projects, please don't hesitate to reach out. I look forward to connecting with you!"
+Please feel free to reach out to me if you have any questions or would like to discuss potential projects. I look forward to working with you!"
+
+### Skills
+* Strong background in physics, including classical mechanics, electromagnetism, and quantum mechanics
+* Proficient in programming languages such as Python, C++, and MATLAB
+* Experience with numerical methods and algorithms for simulation and modeling
+* Knowledge of scientific computing libraries, such as NumPy, SciPy, and PyTorch
+* Familiarity with high-performance computing (HPC) environments and parallel computing
+
+### Experience
+Over the past decade, I've worked with clients in academia, research institutions, and industry. Here are a few examples of my recent projects:
+
+* Developed a simulation software package for a research group in materials science, which included implementing numerical methods for solving partial differential equations (PDEs) and a user-friendly graphical interface.
+
+* Created a custom computational model for an astrophysics research project, which involved simulating the evolution of stars using numerical methods and HPC techniques.
+
+* Built a software tool for a startup in the energy sector to optimize fluid dynamics simulations of turbines, which involved developing a parallel computing framework and optimizing the simulation code for performance.
+
+* FDTD simulations: I specialize in developing robust computer codes for FDTD simulations in a variety of fields, including electromagnetics, optics, and acoustics.
+
+* FEM simulations: I have experience creating finite element models and performing FEM simulations for clients in electrical, mechanical, and civil engineering.
+
+* Simulation consulting: I can provide expert consulting services to clients looking to optimize their simulation workflows or explore new simulation techniques, including FDTD and FEM.
+
+* GPU acceleration: I am knowledgeable in using GPU acceleration to improve the efficiency of FDTD and FEM simulations, and can help clients implement this technology in their workflows.
+
+* Training and workshops: I offer training and workshops to help clients learn how to perform FDTD and FEM simulations on their own, using software such as Lumerical, COMSOL, and ANSYS.
+
+* Computational physics simulations: I can create robust computer codes using C++, Python, and MATLAB to perform simulations in a variety of fields, with a particular focus on electromagnetics.
+
+* Programming and software development: I offer programming and software development services to create customized solutions for clients in electrical, mechanics, and plasma engineering.
+
+* Freelance programming: I can collaborate with clients remotely to deliver high-quality software solutions on time and within budget.
+
+* Optimization and efficiency consulting: I can help clients optimize their existing simulation workflows and explore new technologies, such as GPU acceleration, to improve the efficiency of their simulations.
+
+* Collaboration and project management: I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track and within budget.
 
    ---
    
