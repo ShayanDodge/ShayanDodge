@@ -45,26 +45,18 @@ Please feel free to reach out to me if you have any questions or would like to d
 * Experience with numerical methods and algorithms for simulation and modeling (FDM, FTTD, FEM, MOM)
 * Familiarity with high-performance computing (HPC) environments and parallel computing
 
-## ![icons8-experience-64 (1)](https://user-images.githubusercontent.com/94797491/227505758-fcb4a867-eeb6-42b5-9c95-403b3831a771.png) Experiences
-In the last five years, I have collaborated with various customers from academic, research, and industry sectors. Here are some recent projects I have worked on.
+## ![icons8-experience-64 (1)](https://user-images.githubusercontent.com/94797491/227505758-fcb4a867-eeb6-42b5-9c95-403b3831a771.png) Services
 
-* Developed a simulation software package for a research group in materials science, which included implementing numerical methods for solving partial differential equations (PDEs) and a user-friendly graphical interface.
+* **Computational physics simulations:** I can create robust computer codes using C++, Python, and MATLAB to perform simulations in a variety of fields, with a particular focus on electromagnetics.
+  1. **FDTD simulations:** I specialize in developing robust computer codes for FDTD simulations in a variety of fields, including electromagnetics, optics, and acoustics.
 
-* Created a custom computational model for an astrophysics research project, which involved simulating the evolution of stars using numerical methods and HPC techniques.
+  2. **FEM simulations:** I have experience creating finite element models and performing FEM simulations for clients in electrical, mechanical engineering.
 
-* Built a software tool for a startup in the energy sector to optimize fluid dynamics simulations of turbines, which involved developing a parallel computing framework and optimizing the simulation code for performance.
+  3. **Simulation consulting:** I can provide expert consulting services to clients looking to optimize their simulation workflows or explore new simulation techniques, including FDTD and FEM.
 
-* FDTD simulations: I specialize in developing robust computer codes for FDTD simulations in a variety of fields, including electromagnetics, optics, and acoustics.
+  4. **GPU acceleration:** I am knowledgeable in using GPU acceleration to improve the efficiency of FDTD and FEM simulations, and can help clients implement this technology in their workflows.
 
-* FEM simulations: I have experience creating finite element models and performing FEM simulations for clients in electrical, mechanical, and civil engineering.
-
-* Simulation consulting: I can provide expert consulting services to clients looking to optimize their simulation workflows or explore new simulation techniques, including FDTD and FEM.
-
-* GPU acceleration: I am knowledgeable in using GPU acceleration to improve the efficiency of FDTD and FEM simulations, and can help clients implement this technology in their workflows.
-
-* Training and workshops: I offer training and workshops to help clients learn how to perform FDTD and FEM simulations on their own, using software such as Lumerical, COMSOL, and ANSYS.
-
-* Computational physics simulations: I can create robust computer codes using C++, Python, and MATLAB to perform simulations in a variety of fields, with a particular focus on electromagnetics.
+* Training and workshops: I offer training and workshops to help clients learn how to perform FDTD and FEM simulations independently, using programming languages and software such as MATLAB, C++, and Python.
 
 * Programming and software development: I offer programming and software development services to create customized solutions for clients in electrical, mechanics, and plasma engineering.
 
@@ -75,9 +67,12 @@ In the last five years, I have collaborated with various customers from academic
 * Collaboration and project management: I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track and within budget.
 
    ---
-  
+# Let's Work Together!
+If you're interested in working with me, please don't hesitate to contact me. You can reach me through my email me at dodgeshayan@gmail.com. I look forward to hearing from you!
+
 # Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 <p align="center">
+ 
  
   [![Gmail](https://img.shields.io/badge/dodgeshayan@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodgeshayan@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-dodge-441453204)
