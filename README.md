@@ -56,7 +56,7 @@ Please feel free to reach out to me if you have any questions or would like to d
 
   4. **GPU acceleration:** I am knowledgeable in using GPU acceleration to improve the efficiency of FDTD and FEM simulations, and can help clients implement this technology in their workflows.
 
-* **Training and workshops:** I offer training and workshops to help clients learn how to perform FDTD and FEM simulations independently, using programming languages and software such as MATLAB, C++, and Python.
+* **Training and workshops:** I offer training and workshops to help clients learn how to perform FDTD and FEM simulations independently, using programming languages and software such as MATLAB, C++, and Python
 
 * **Programming and software development:** I offer programming and software development services to create customized solutions for clients in electrical, mechanics, and plasma engineering.
 
