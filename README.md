@@ -1,7 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/94797491/224638596-90895925-517a-47e1-bc9f-d2a70c0f3b55.png" alt="Illustration" title="Illustration Storyset" width=200/>
 
 # ![icons8-education-64](https://user-images.githubusercontent.com/94797491/224663941-1b897308-1a6f-4383-93d2-94d9950790ca.png) Shayan Dodge
-**`Physicist | Programmer | Freelancer`**
+**`Physicist | Programmer `**
 
 I am a highly skilled physics enthusiast with a Master's degree in Physics, and a strong passion for programming and simulation in engineering. My expertise lies in developing computer codes using C++, Python and MATLAB for computational physics simulations, with a particular focus on electromagnetics.
 </div>
