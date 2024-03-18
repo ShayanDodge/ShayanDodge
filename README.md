@@ -22,6 +22,10 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
 
 ## 🤖 Artificial Intelligence Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
 
  
  ---
