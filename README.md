@@ -8,7 +8,7 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
 
 ---
 
-## 🧰 Languages and Tools
+## 👩‍💻 Languages and Tools
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
  <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=MATLAB&color=%23E34F26&style=for-the-badge&logo=matlab&logoColor=whitesmoke" alt="MATLAB">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,11 +19,18 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
  ---
+## 📝 Numerical Computing Tools
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 
 ## 🤖 Artificial Intelligence Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+
+
 
 
 
@@ -83,14 +90,14 @@ If you're interested in working with me, please don't hesitate to contact me. Yo
 <p align="center">
  
  
-  [![Gmail](https://img.shields.io/badge/dodgeshayan@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodgeshayan@gmail.com)
+ [![Gmail](https://img.shields.io/badge/dodgeshayan@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dodgeshayan@gmail.com)
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-dodge-441453204)
  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ShayanDodge)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=989357416763)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/shayan.dodge)
  [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/GVbjVORr0ghC)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shayand.95/?igshid=YmMyMTA2M2Y=)
-  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+ ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
  
 ---
 
