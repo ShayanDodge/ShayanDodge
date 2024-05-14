@@ -1,6 +1,6 @@
 
 # `Shayan Dodge`
-**`Physicist | Programmer `**
+**`Physicist & Machine Learning Researcher`**
 
 I am a highly skilled physics enthusiast with a Master's degree in Physics, and a strong passion for programming and simulation in engineering. My expertise lies in developing computer codes using C++, Python and MATLAB for computational physics simulations, with a particular focus on electromagnetics.
 </div>
