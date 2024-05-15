@@ -45,13 +45,13 @@ I am a highly skilled physics enthusiast with a Master's degree in Physics, and 
    
  # ![icons8-simulation-64](https://user-images.githubusercontent.com/94797491/227504377-2b8f3439-af9d-44d9-94d6-506a6d1ed903.png) Simulation and Computational Physics Services</h3></summary>
  
-"Hello and welcome to my LinkedIn profile! As a passionate physicist with a Master's degree in Physics and expertise in programming and simulation in engineering, I specialize in creating robust computer codes for computational physics simulations using C++, Python, and MATLAB. My particular focus is on electromagnetics, and I am familiar with FDTD and FEM simulations.
+Hello and welcome to my LinkedIn profile! As a passionate physicist with a Master's degree in Physics and expertise in programming and simulation in engineering, I specialize in creating robust computer codes for computational physics simulations using C++, Python, and MATLAB. My particular focus is on electromagnetics, and I am familiar with FDTD and FEM simulations.
 
 With experience in delivering successful projects for clients in electrical, mechanics, and plasma engineering, I am confident in my ability to provide programming and software development services that meet the needs of my clients. Additionally, I am always researching the latest technologies and methodologies to optimize my work, and I am particularly interested in exploring GPU acceleration to improve the efficiency of my FDTD simulations.
 
 I have a strong work ethic, attention to detail, and dedication to delivering high-quality work on time and within budget. I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track. My passion for physics and computer science drives me to constantly expand my knowledge and skills, and I offer training and workshops to help others do the same.
 
-Please feel free to reach out to me if you have any questions or would like to discuss potential projects. I look forward to working with you!"
+Please feel free to reach out to me if you have any questions or would like to discuss potential projects. I look forward to working with you!
 
 ## ![icons8-skill-64 (1)](https://user-images.githubusercontent.com/94797491/227503379-fafba001-e423-4fb5-b8ee-71f4897b4358.png) Skills
 
