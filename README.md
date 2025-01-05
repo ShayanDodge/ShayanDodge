@@ -6,43 +6,12 @@ I am a highly skilled physicist and machine learning researcher, deeply passiona
 
 ---
 
-# ![icons8-simulation-64](https://user-images.githubusercontent.com/94797491/227504377-2b8f3439-af9d-44d9-94d6-506a6d1ed903.png) Simulation and Computational Physics Services</h3></summary>
- 
-Hello and welcome to my LinkedIn profile! As a passionate physicist with a Master's degree in Physics and expertise in programming and simulation in engineering, I specialize in creating robust computer codes for computational physics simulations using C++, Python, and MATLAB. My particular focus is on electromagnetics, and I am familiar with FDTD and FEM simulations.
-
-With experience in delivering successful projects for clients in electrical, mechanics, and plasma engineering, I am confident in my ability to provide programming and software development services that meet the needs of my clients. Additionally, I am always researching the latest technologies and methodologies to optimize my work, and I am particularly interested in exploring GPU acceleration to improve the efficiency of my FDTD simulations.
-
-I have a strong work ethic, attention to detail, and dedication to delivering high-quality work on time and within budget. I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track. My passion for physics and computer science drives me to constantly expand my knowledge and skills, and I offer training and workshops to help others do the same.
-
-Please feel free to reach out to me if you have any questions or would like to discuss potential projects. I look forward to working with you!
-
 ## ![icons8-skill-64 (1)](https://user-images.githubusercontent.com/94797491/227503379-fafba001-e423-4fb5-b8ee-71f4897b4358.png) Skills
 
 * Strong background in physics, including classical mechanics, electromagnetism, and quantum mechanics
+* Proficient in machine learning and deep learning, with extensive experience applying these methods to tackle complex problems in physics and engineering.
 * Proficient in programming languages such as Python, C++, and MATLAB
 * Experience with numerical methods and algorithms for simulation and modeling (FDM, FTTD, FEM, MOM)
-* Familiarity with high-performance computing (HPC) environments and parallel computing
-
-## ![icons8-experience-64 (1)](https://user-images.githubusercontent.com/94797491/227505758-fcb4a867-eeb6-42b5-9c95-403b3831a771.png) Services
-
-* **Computational physics simulations:** I can create robust computer codes using C++, Python, and MATLAB to perform simulations in a variety of fields, with a particular focus on electromagnetics.
-  1. **FDTD simulations:** I specialize in developing robust computer codes for FDTD simulations in a variety of fields, including electromagnetics, optics, and acoustics.
-
-  2. **FEM simulations:** I have experience creating finite element models and performing FEM simulations for clients in electrical, mechanical engineering.
-
-  3. **Simulation consulting:** I can provide expert consulting services to clients looking to optimize their simulation workflows or explore new simulation techniques, including FDTD and FEM.
-
-  4. **GPU acceleration:** I am knowledgeable in using GPU acceleration to improve the efficiency of FDTD and FEM simulations, and can help clients implement this technology in their workflows.
-
-* **Training and workshops:** I offer training and workshops to help clients learn how to perform FDTD and FEM simulations independently, using programming languages and software such as MATLAB, C++, and Python
-
-* **Programming and software development:** I offer programming and software development services to create customized solutions for clients in electrical, mechanics, and plasma engineering.
-
-* **Freelance programming:** I can collaborate with clients remotely to deliver high-quality software solutions on time and within budget.
-
-* **Optimization and efficiency consulting:** I can help clients optimize their existing simulation workflows and explore new technologies, such as GPU acceleration, to improve the efficiency of their simulations.
-
-* **Collaboration and project management:** I enjoy collaborating closely with clients to ensure their needs are met and providing project management services to keep projects on track and within budget.
 
 ---
 ### Languages and Tools
@@ -77,7 +46,7 @@ Please feel free to reach out to me if you have any questions or would like to d
    
    ---
    
-# Let's Work Together!
+## Let's Work Together!
 If you're interested in working with me, please don't hesitate to contact me. You can reach me through my email me at dodgeshayan@gmail.com. I look forward to hearing from you!
 
 # Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
