@@ -8,10 +8,10 @@ I am a highly skilled physicist and machine learning researcher, deeply passiona
 
 ## ![icons8-skill-64 (1)](https://user-images.githubusercontent.com/94797491/227503379-fafba001-e423-4fb5-b8ee-71f4897b4358.png) Skills
 
-* Strong background in physics, including classical mechanics, electromagnetism, and quantum mechanics
-* Proficient in machine learning and deep learning, with extensive experience applying these methods to tackle complex problems in physics and engineering.
+* Strong background in physics.
+* Proficient in machine learning and deep learning, with extensive experience applying these methods to tackle complex problems in physics and engineering (Physics Informed Neural Network).
+* Experience with numerical methods and algorithms for simulation and modeling (FDM, FTTD, FEM, BEM, MOM).
 * Proficient in programming languages such as Python, C++, and MATLAB
-* Experience with numerical methods and algorithms for simulation and modeling (FDM, FTTD, FEM, MOM)
 
 ---
 ### Languages and Tools
