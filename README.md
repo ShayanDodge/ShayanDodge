@@ -2,7 +2,7 @@
 # `Shayan Dodge`
 **`Physicist & Machine Learning Researcher`**
 
-I am a highly skilled physicist and machine learning researcher, deeply passionate about programming, engineering simulations, and machine learning research. My expertise spans extensive experience in machine learning and deep learning, applying these techniques to solve complex problems in physics and engineering. Additionally, I develop advanced computer codes using C++, Python, and MATLAB for computational physics, with a particular emphasis on electromagnetics.
+I am a highly skilled physicist, deeply passionate about programming, engineering simulations, and machine learning research. My expertise spans extensive experience in machine learning and deep learning, applying these techniques to solve complex problems in physics and engineering. Additionally, I develop advanced computer codes using C++, Python, and MATLAB for computational physics, with a particular emphasis on electromagnetics.
 
 ---
 
