@@ -38,13 +38,6 @@ I am a highly skilled physicist, deeply passionate about programming, engineerin
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
  
  ---
- 
- ## 📊 Stats
-  <div align="left">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=ShayanDodge&show_icons=true&theme=algolia&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b1" alt="angeloyeo" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShayanDodge&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="angeloyeo" />
-   
-   ---
    
 ## Let's Work Together!
 If you're interested in working with me, please don't hesitate to contact me. You can reach me through my email me at dodgeshayan@gmail.com. I look forward to hearing from you!
