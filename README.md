@@ -7,20 +7,11 @@ I work at the intersection of **physics** and **artificial intelligence**, devel
 
 ## 🔬 Research Areas
 
-⚙️ **AI for Electromagnetics**  
-PINNs · Neural Operators · Inverse Modeling  
-
-📡 **Computational Electromagnetics**  
-FEM · FDTD · BEM · Multiphysics Modeling  
-
-⚡ **Lightning & Power Systems**  
-Induced Overvoltages · Lightning Localization · Precursor Detection  
-
-🧬 **Bioelectromagnetics**  
-TMS Modeling · SAR Estimation · Microwave Hyperthermia  
-
-🚀 **High-Performance Computing**  
-CUDA · GPU Acceleration · Parallel Solvers  
+⚙️ **AI for Electromagnetics:** PINNs · Neural Operators · Inverse Modeling  
+📡 **Computational Electromagnetics:** FEM · FDTD · BEM · Multiphysics  
+⚡ **Lightning & Power Systems:** Localization · Induced Overvoltages  
+🧬 **Bioelectromagnetics:** TMS · SAR · Hyperthermia  
+🚀 **High-Performance Computing:** CUDA · GPU Acceleration · Parallel Solvers
 
 ---
 
