@@ -35,13 +35,25 @@ CUDA · GPU Acceleration · Parallel Solvers
 ---
 
 ## 📚 Research Contributions
+### 🧠 Physics-Informed Neural Networks for Electromagnetics  
+Design of physics-consistent neural architectures (PINNs) for forward and inverse electromagnetic field problems, including nonlinear and time-domain systems.  
+🔗 Best Paper: A STacked Adaptive Residual PINN (STAR-PINN) Approach to 2D Time-Domain Magnetic Diffusion, *IEEE Access, 2025*, [Link](https://ieeexplore.ieee.org/abstract/document/11122441)
 
-🔹 Deep learning–based lightning location and peak current estimation  
-🔹 Hybrid Boundary Element – Physics-Informed Neural Network methods  
-🔹 Weak-form PINNs for electromagnetic field analysis  
-🔹 GPU-accelerated FDTD solvers for EM wave propagation  
+### 📐 Hybrid Numerical–AI Methods  
+Integration of classical numerical solvers (BEM, FEM) with neural networks to accelerate and stabilize electromagnetic simulations.  
+🔗 Best Paper: A Novel Hybrid Boundary Element–Physics Informed Neural Network Method, *IEEE Access, 2024*, [Link](https://ieeexplore.ieee.org/document/10755077)
 
-My work aims to bridge rigorous physical modeling with adaptive learning systems to advance intelligent electromagnetic simulation.
+### ⚡ Lightning & Power Systems Modeling  
+Development of deep learning frameworks for lightning location, peak current estimation, and induced overvoltage prediction in electrical networks.  
+🔗 Best Paper: A Deep Learning Based Lightning Location System, *Electric Power Systems Research, 2025*, [Link](https://doi.org/10.1016/j.epsr.2025.111437)
+
+### 🧬 Bioelectromagnetics  
+Computational modeling of electromagnetic interactions in biological systems, including transcranial magnetic stimulation (TMS) and SAR prediction in biomedical applications.  
+🔗 Best Paper: A Deep Learning Based Prediction of Specific Absorption Rate Hot-Spots, *IET Science, Measurement & Technology, 2025*, [Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/smt2.70009)
+
+### 🚀 High-Performance Computational Electromagnetics  
+GPU-accelerated FDTD solvers for electromagnetic wave propagation and plasma modeling.  
+🔗 Best Paper: Application of GPU-Accelerated FDTD Method to Electromagnetic Wave Propagation in Plasma, [Link](https://arxiv.org/abs/2211.05647)
 
 ---
 
