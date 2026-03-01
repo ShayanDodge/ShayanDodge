@@ -86,7 +86,7 @@ My work aims to bridge rigorous physical modeling with adaptive learning systems
 
 6. **A Deep Learning Based Prediction of Specific Absorption Rate Hot-Spots Induced by Broadband Electromagnetic Devices**  
    *IET Science, Measurement & Technology*, 2025.  
-   DOI: [Add DOI]
+   DOI: https://doi.org/10.1049/smt2.70009
 
 7. **A Deep Learning Based Lightning Location System**  
    *Electric Power Systems Research*, 2025.  
@@ -94,15 +94,15 @@ My work aims to bridge rigorous physical modeling with adaptive learning systems
 
 8. **Preliminary Breakdown Pulses (PBP): A Review on Available Data and Models**  
    *Electric Power Systems Research*, 2025.  
-   DOI: [Add DOI]
+   DOI: https://doi.org/10.1016/j.epsr.2025.111463
 
 9. **A Novel Hybrid Boundary Element–Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics**  
    *IEEE Access*, 2024.  
-   DOI: [Add DOI]
+   DOI: [10.1109/ACCESS.2024.3500039](https://ieeexplore.ieee.org/document/10755077)
 
 10. **Characterization of Microwave Heating for Hyperthermia Cancer Treatment**  
     *Waves in Random and Complex Media*, 2024.  
-    DOI: [Add DOI]
+    DOI: https://doi.org/10.1080/17455030.2021.1905911
 
 11. **Application of GPU-Accelerated FDTD Method to Electromagnetic Wave Propagation in Plasma**  
     *arXiv*, 2022.  
