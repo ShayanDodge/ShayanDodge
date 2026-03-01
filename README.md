@@ -66,11 +66,11 @@ My work aims to bridge rigorous physical modeling with adaptive learning systems
 
 1. **A Comparison of Machine Learning and Classical Numerical Approaches for the Resolution of Electromagnetics Problems**  
    *IET Science, Measurement & Technology*, 2025.  
-   DOI: [10.1109/TMAG.2025.3626152](https://ieeexplore.ieee.org/document/11218939)
+   DOI: https://doi.org/10.1049/smt2.70034 
 
 2. **Weak Formulation for Physics-Informed Neural Networks in the Resolution of Analysis Problems in Electromagnetics**  
    *IEEE Transactions on Magnetics*, 2025.  
-   DOI: [Add DOI]
+   DOI: [10.1109/TMAG.2025.3626152](https://ieeexplore.ieee.org/document/11218939)
 
 3. **Unilateral EMG-Guided Botulinum Toxin for Retrograde Cricopharyngeus Dysfunction**  
    *Toxins*, 2025.  
