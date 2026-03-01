@@ -3,6 +3,8 @@
 
 I work at the intersection of **physics** and **artificial intelligence**, developing advanced computational frameworks that combine high-fidelity numerical solvers with modern machine learning.
 
+> ⚡ Bridging first-principles physics and artificial intelligence for next-generation electromagnetic systems.
+
 ---
 
 ## 🔬 Research Areas
@@ -48,13 +50,6 @@ GPU-accelerated FDTD solvers for electromagnetic wave propagation and plasma mod
 
 ---
 
-## 🌍 Professional Engagement
-
-📌 IEEE Member  
-📖 Reviewer for IEEE Transactions on Magnetics · Physics of Plasmas · Optics Express  
-
----
-
 ## 📫 Contact
 
 📧 dodgeshayan@gmail.com  
@@ -62,8 +57,6 @@ GPU-accelerated FDTD solvers for electromagnetic wave propagation and plasma mod
 🆔 ORCID: 0000-0002-8323-2290  
 
 ---
-
-> ⚡ Bridging first-principles physics and artificial intelligence for next-generation electromagnetic systems.
 
 ## 📚 Journal Articles
 
