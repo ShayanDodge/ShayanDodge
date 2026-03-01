@@ -74,15 +74,15 @@ My work aims to bridge rigorous physical modeling with adaptive learning systems
 
 3. **Unilateral EMG-Guided Botulinum Toxin for Retrograde Cricopharyngeus Dysfunction**  
    *Toxins*, 2025.  
-   DOI: [Add DOI]
+   DOI: https://doi.org/10.3390/toxins17090458
 
 4. **Relating Transmission Line Overvoltages and Lightning Location: A Machine Learning–Based Procedure**  
    *COMPEL*, 2025.  
-   DOI: [Add DOI]
+   DOI: https://doi.org/10.1108/COMPEL-12-2024-0521
 
 5. **A STacked Adaptive Residual PINN (STAR-PINN) Approach to 2D Time-Domain Magnetic Diffusion in Nonlinear Materials**  
    *IEEE Access*, 2025.  
-   DOI: [Add DOI]
+   DOI: [10.1109/ACCESS.2025.3597869](https://ieeexplore.ieee.org/document/11122441)
 
 6. **A Deep Learning Based Prediction of Specific Absorption Rate Hot-Spots Induced by Broadband Electromagnetic Devices**  
    *IET Science, Measurement & Technology*, 2025.  
