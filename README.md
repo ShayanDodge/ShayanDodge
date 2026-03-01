@@ -61,3 +61,49 @@ My work aims to bridge rigorous physical modeling with adaptive learning systems
 ---
 
 > ⚡ Bridging first-principles physics and artificial intelligence for next-generation electromagnetic systems.
+
+## 📚 Journal Articles
+
+1. **A Comparison of Machine Learning and Classical Numerical Approaches for the Resolution of Electromagnetics Problems**  
+   *IET Science, Measurement & Technology*, 2025.  
+   [Link]
+
+2. **Weak Formulation for Physics-Informed Neural Networks in the Resolution of Analysis Problems in Electromagnetics**  
+   *IEEE Transactions on Magnetics*, 2025.  
+   [Link]
+
+3. **Unilateral EMG-Guided Botulinum Toxin for Retrograde Cricopharyngeus Dysfunction: A Prospective Clinical and Neurophysiological Study**  
+   *Toxins*, 2025.  
+   [Link]
+
+4. **Relating Transmission Line Overvoltages and Lightning Location: A Machine Learning–Based Procedure**  
+   *COMPEL*, 2025.  
+   [Link]
+
+5. **A STacked Adaptive Residual PINN (STAR-PINN) Approach to 2D Time-Domain Magnetic Diffusion in Nonlinear Materials**  
+   *IEEE Access*, 2025.  
+   [Link]
+
+6. **A Deep Learning Based Prediction of Specific Absorption Rate Hot-Spots Induced by Broadband Electromagnetic Devices**  
+   *IET Science, Measurement & Technology*, 2025.  
+   [Link]
+
+7. **A Deep Learning Based Lightning Location System**  
+   *Electric Power Systems Research*, 2025.  
+   https://doi.org/10.1016/j.epsr.2025.111437
+
+8. **Preliminary Breakdown Pulses (PBP): A Review on Available Data and Models**  
+   *Electric Power Systems Research*, 2025.  
+   [Link]
+
+9. **A Novel Hybrid Boundary Element–Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics**  
+   *IEEE Access*, 2024.  
+   [Link]
+
+10. **Characterization of Microwave Heating for Hyperthermia Cancer Treatment**  
+    *Waves in Random and Complex Media*, 2024.  
+    [Link]
+
+11. **Application of GPU-Accelerated FDTD Method to Electromagnetic Wave Propagation in Plasma**  
+    *arXiv*, 2022.  
+    https://arxiv.org/abs/2211.05647
