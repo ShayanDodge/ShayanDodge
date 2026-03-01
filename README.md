@@ -53,8 +53,9 @@ GPU-accelerated FDTD solvers for electromagnetic wave propagation and plasma mod
 ## 📫 Contact
 
 📧 dodgeshayan@gmail.com  
-🔗 linkedin.com/in/shayan-dodge-441453204  
-🆔 ORCID: 0000-0002-8323-2290  
+🔗 [linkedin.com/in/shayan-dodge-441453204](https://www.linkedin.com/in/shayan-dodge-441453204/)  
+🎓 Google Scholar: [Google Scholar Profile](https://scholar.google.com/citations?user=1usufq0AAAAJ&hl=en)
+🆔 ORCID: [0000-0002-8323-2290](https://orcid.org/my-orcid?orcid=0000-0002-8323-2290)  
 
 ---
 
