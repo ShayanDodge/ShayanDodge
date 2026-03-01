@@ -60,7 +60,7 @@ GPU-accelerated FDTD solvers for electromagnetic wave propagation and plasma mod
 
 ---
 
-## 📚 Journal Articles
+## 📑 Journal Articles
 
 1. **A Comparison of Machine Learning and Classical Numerical Approaches for the Resolution of Electromagnetics Problems**  
    *IET Science, Measurement & Technology*, 2025.  
