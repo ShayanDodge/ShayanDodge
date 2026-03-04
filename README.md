@@ -62,50 +62,50 @@ GPU-accelerated FDTD solvers for electromagnetic wave propagation and plasma mod
 
 ## 📑 Journal Articles
 
-1. **Fast model order reduction based approach for transcranial magnetic stimulation with varying coil positioning**
-   *IEEE Access*, 2026.
+1. **Fast model order reduction based approach for transcranial magnetic stimulation with varying coil positioning**  
+   *IEEE Access*, 2026.  
    DOI: [10.1109/ACCESS.2026.3668478](https://ieeexplore.ieee.org/document/11413993/authors)
     
-3. **A Comparison of Machine Learning and Classical Numerical Approaches for the Resolution of Electromagnetics Problems**  
+4. **A Comparison of Machine Learning and Classical Numerical Approaches for the Resolution of Electromagnetics Problems**  
    *IET Science, Measurement & Technology*, 2025.  
    DOI: https://doi.org/10.1049/smt2.70034 
 
-4. **Weak Formulation for Physics-Informed Neural Networks in the Resolution of Analysis Problems in Electromagnetics**  
+5. **Weak Formulation for Physics-Informed Neural Networks in the Resolution of Analysis Problems in Electromagnetics**  
    *IEEE Transactions on Magnetics*, 2025.  
    DOI: [10.1109/TMAG.2025.3626152](https://ieeexplore.ieee.org/document/11218939)
 
-5. **Unilateral EMG-Guided Botulinum Toxin for Retrograde Cricopharyngeus Dysfunction**  
+6. **Unilateral EMG-Guided Botulinum Toxin for Retrograde Cricopharyngeus Dysfunction**  
    *Toxins*, 2025.  
    DOI: https://doi.org/10.3390/toxins17090458
 
-6. **Relating Transmission Line Overvoltages and Lightning Location: A Machine Learning–Based Procedure**  
+7. **Relating Transmission Line Overvoltages and Lightning Location: A Machine Learning–Based Procedure**  
    *COMPEL*, 2025.  
    DOI: https://doi.org/10.1108/COMPEL-12-2024-0521
 
-7. **A STacked Adaptive Residual PINN (STAR-PINN) Approach to 2D Time-Domain Magnetic Diffusion in Nonlinear Materials**  
+8. **A STacked Adaptive Residual PINN (STAR-PINN) Approach to 2D Time-Domain Magnetic Diffusion in Nonlinear Materials**  
    *IEEE Access*, 2025.  
    DOI: [10.1109/ACCESS.2025.3597869](https://ieeexplore.ieee.org/document/11122441)
 
-8. **A Deep Learning Based Prediction of Specific Absorption Rate Hot-Spots Induced by Broadband Electromagnetic Devices**  
+9. **A Deep Learning Based Prediction of Specific Absorption Rate Hot-Spots Induced by Broadband Electromagnetic Devices**  
    *IET Science, Measurement & Technology*, 2025.  
    DOI: https://doi.org/10.1049/smt2.70009
 
-9. **A Deep Learning Based Lightning Location System**  
+10. **A Deep Learning Based Lightning Location System**  
    *Electric Power Systems Research*, 2025.  
    https://doi.org/10.1016/j.epsr.2025.111437
 
-10. **Preliminary Breakdown Pulses (PBP): A Review on Available Data and Models**  
+11. **Preliminary Breakdown Pulses (PBP): A Review on Available Data and Models**  
    *Electric Power Systems Research*, 2025.  
    DOI: https://doi.org/10.1016/j.epsr.2025.111463
 
-11. **A Novel Hybrid Boundary Element–Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics**  
+12. **A Novel Hybrid Boundary Element–Physics Informed Neural Network Method for Numerical Solutions in Electromagnetics**  
    *IEEE Access*, 2024.  
    DOI: [10.1109/ACCESS.2024.3500039](https://ieeexplore.ieee.org/document/10755077)
 
-12. **Characterization of Microwave Heating for Hyperthermia Cancer Treatment**  
+13. **Characterization of Microwave Heating for Hyperthermia Cancer Treatment**  
     *Waves in Random and Complex Media*, 2024.  
     DOI: https://doi.org/10.1080/17455030.2021.1905911
 
-13. **Application of GPU-Accelerated FDTD Method to Electromagnetic Wave Propagation in Plasma**  
+14. **Application of GPU-Accelerated FDTD Method to Electromagnetic Wave Propagation in Plasma**  
     *arXiv*, 2022.  
     https://arxiv.org/abs/2211.05647
