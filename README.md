@@ -34,7 +34,7 @@ Design of physics-consistent neural architectures (PINNs) for forward and invers
 
 ### 📐 Hybrid Numerical–AI Methods  
 Integration of classical numerical solvers (BEM, FEM) with neural networks to accelerate and stabilize electromagnetic simulations.  
-🔗 Best Paper: A Novel Hybrid Boundary Element–Physics Informed Neural Network Method, *IEEE Access, 2024*, [Link](https://ieeexplore.ieee.org/document/10755077)
+🔗 Best Paper: A Novel Hybrid Boundary Element–Physics Informed Neural Network Method, *IEEE Access, 2024*, [Paper](https://ieeexplore.ieee.org/document/10755077) [GitHub](https://github.com/ShayanDodge/Hybrid-BEM-PINN-Electromagnetics)
 
 ### ⚡ Lightning & Power Systems Modeling  
 Development of deep learning frameworks for lightning location, peak current estimation, and induced overvoltage prediction in electrical networks.  
